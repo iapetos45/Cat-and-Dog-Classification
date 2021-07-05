@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f46e91d-9330-478a-bc0c-005db8d06748" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Batch-Normalization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data-Augmentation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
